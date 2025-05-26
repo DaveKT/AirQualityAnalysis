@@ -36,13 +36,30 @@ The analysis yielded several insights:
 * Humidity and Temperature: Observed fluctuations.
 * PM2.5: Noted increased particulate matter during certain indoor activities.
 
-#### Selection of Charts
+#### Selection of Charts and tables
 
 !["radon and humity chart"](images/RadonandHumidityLine.png)
 
 !["correlation of environment features"](images/RadonCorr.png)
 
 !["humidity levels on three separate floors in the same building plotted over time"](images/FloorHumity.png)
+
+|       | radon short term avg pCi/L |
+| ----- | -------------------------- |
+| count | 3423                       |
+| mean  | 1.710870581                |
+| std   | 0.679612862                |
+| min   | 0.68                       |
+| 25%   | 1.24                       |
+| 50%   | 1.57                       |
+| 75%   | 1.97                       |
+| max   | 5.65                       |
+
+| Quantile | radon pCi/L |
+| -------- | ----- |
+| .99      | 4.1   |
+| .95      | 3.05  |
+| .90      | 2.54  |
 
 These findings can inform decisions to enhance indoor air quality, such as adjusting ventilation, using air purifiers, or modifying household activities.
 
