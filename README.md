@@ -36,6 +36,14 @@ The analysis yielded several insights:
 * Humidity and Temperature: Observed fluctuations.
 * PM2.5: Noted increased particulate matter during certain indoor activities.
 
+#### Selection of Charts
+
+!["radon and humity chart"](images/RadonandHumidityLine.png)
+
+!["correlation of environment features"](images/RadonCorr.png)
+
+!["humidity levels on three separate floors in the same building plotted over time"](images/FloorHumity.png)
+
 These findings can inform decisions to enhance indoor air quality, such as adjusting ventilation, using air purifiers, or modifying household activities.
 
 ## Repository Contents
