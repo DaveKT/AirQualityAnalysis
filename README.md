@@ -68,9 +68,6 @@ These findings can inform decisions to enhance indoor air quality, such as adjus
 * AirQualityAnalysis.ipynb: Main notebook containing data processing and analysis.
 * SensorReadings2025.csv: Dataset with recorded sensor readings.
 * EveHumiditySensorData.csv: Additional dataset focusing on humidity measurements.
-* Radon Stats.md: Detailed statistics and analysis of radon levels.
-* Quantiles.md: Quantile analysis for various air quality parameters.
-* 1922 Home Air Quality.md: Comprehensive overview of the home’s air quality data.
 
 ### Getting Started
 
