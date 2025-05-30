@@ -17,6 +17,12 @@ Data was collected using a combination of air quality sensors installed througho
 
 The data was logged over an extended period to capture variations and trends.
 
+#### Equipment for Air Sampling 
+
+1. [Airthings Wave Enhance](https://www.airthings.com/wave-enhance)
+1. [Eve Room](https://www.evehome.com/en-us/eve-room)
+
+
 ### Analysis
 
 The Jupyter Notebooks perform the following analyses:
